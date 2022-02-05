@@ -39,4 +39,4 @@ Le site est censé acceuillir un système de connexion obligatoire pour les rés
 
 
 
-P.S. : le oops.html est censé représenter la page qui s'affiche lorsque l'utilisateur n'est pas connecté pour les pages qui le requiert (reservations et forum). Elle n'est donc pas intégrée à la naviguation par défaut (mais elle fonctionne).
+P.S. : le oops.html est censé représenter la page qui s'affiche lorsque l'utilisateur n'est pas connecté pour les pages qui le requiert (reservations et forum). Elle n'est donc pas intégrée à la navigation par défaut (mais elle fonctionne).
